@@ -1,0 +1,1 @@
+{"version":3,"file":"executeRedirect.d.ts","sourceRoot":"","sources":["../../../../../../src/features/blocks/logic/redirect/utils/executeRedirect.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,aAAa,EAAE,MAAM,yCAAyC,CAAC;AAE7E,eAAO,MAAM,eAAe,wBAGzB,aAAa,CAAC,SAAS,CAAC,KAAQ;IAAE,eAAe,EAAE,MAAM,CAAA;CAAE,GAAG,SAOhE,CAAC"}

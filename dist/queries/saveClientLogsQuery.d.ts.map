@@ -1,0 +1,1 @@
+{"version":3,"file":"saveClientLogsQuery.d.ts","sourceRoot":"","sources":["../../src/queries/saveClientLogsQuery.ts"],"names":[],"mappings":"AACA,OAAO,KAAK,EAAE,OAAO,EAAE,MAAM,mCAAmC,CAAC;AAIjE,eAAO,MAAM,mBAAmB,wCAI7B;IACD,OAAO,CAAC,EAAE,MAAM,CAAC;IACjB,SAAS,EAAE,MAAM,CAAC;IAClB,UAAU,EAAE,OAAO,EAAE,CAAC;CACvB,kBAeA,CAAC"}

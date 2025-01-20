@@ -1,0 +1,8 @@
+
+[0m[2m[35m$[0m [2m[1mrollup --config rollup.config.js[0m
+[36m
+[1m./src/index.ts[22m → [1mdist/index.js[22m...[39m
+[32mcreated [1mdist/index.js[22m in [1m32.8s[22m[39m
+[36m
+[1m./src/web.ts[22m → [1mdist/web.js[22m...[39m
+[32mcreated [1mdist/web.js[22m in [1m37.1s[22m[39m

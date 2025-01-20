@@ -1,0 +1,2 @@
+export declare const botContainer: import("solid-js").Accessor<HTMLDivElement | undefined>, setBotContainer: import("solid-js").Setter<HTMLDivElement | undefined>;
+//# sourceMappingURL=botContainerSignal.d.ts.map

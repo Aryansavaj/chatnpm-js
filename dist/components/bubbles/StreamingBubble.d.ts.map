@@ -1,0 +1,1 @@
+{"version":3,"file":"StreamingBubble.d.ts","sourceRoot":"","sources":["../../../src/components/bubbles/StreamingBubble.tsx"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,UAAU,EAAE,MAAM,SAAS,CAAC;AAQ1C,KAAK,KAAK,GAAG;IACX,kBAAkB,EAAE,MAAM,CAAC;IAC3B,OAAO,EAAE,UAAU,CAAC;CACrB,CAAC;AAEF,eAAO,MAAM,eAAe,UAAW,KAAK,mCAuE3C,CAAC"}

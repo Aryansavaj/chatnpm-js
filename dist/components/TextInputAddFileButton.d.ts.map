@@ -1,0 +1,1 @@
+{"version":3,"file":"TextInputAddFileButton.d.ts","sourceRoot":"","sources":["../../src/components/TextInputAddFileButton.tsx"],"names":[],"mappings":"AAQA,KAAK,KAAK,GAAG;IACX,UAAU,EAAE,CAAC,KAAK,EAAE,QAAQ,KAAK,IAAI,CAAC;IACtC,KAAK,CAAC,EAAE,MAAM,CAAC;CAChB,CAAC;AACF,eAAO,MAAM,sBAAsB,UAAW,KAAK,mCAkFlD,CAAC"}
